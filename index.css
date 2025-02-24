@@ -58,3 +58,11 @@ main .movie-description {
     width: 60%;
 }
 
+.btn-play {
+    text-decoration: none;
+    color: white;
+    background: red;
+    padding: .5rem 2rem;
+    border-radius: .5rem;
+}
+
