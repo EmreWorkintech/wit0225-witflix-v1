@@ -141,13 +141,43 @@ main .movie-description {
 }
 
 /* footer */
-.store {
+
+footer {
+    display: flex;
+    gap: 2rem
+}
+
+footer h4 {
+    margin:0;
+    font-size: 1rem;
+}
+
+.footer-links {
+    width: 70%
+}
+
+footer nav {
+    display: flex;
+    gap: 1rem;
+}
+
+.store-links {
+    flex-grow: 1;
+}
+
+.store-links a {
     display: block;
     aspect-ratio: 4.7/1.4;
     width: 50%;
     background-color: red;
     background-image: url("./assets/web-189884714.jpg.webp");
     background-repeat: no-repeat;
+}
+
+.social-media {
+    display: flex;
+    gap: .2rem;
+    margin-top: 1rem;
 }
 
 .googlePlay {
