@@ -168,10 +168,11 @@ footer nav {
 .store-links a {
     display: block;
     aspect-ratio: 4.7/1.4;
-    width: 50%;
+    width: 100px;
     background-color: red;
     background-image: url("./assets/web-189884714.jpg.webp");
     background-repeat: no-repeat;
+    margin: .5rem 0
 }
 
 .social-media {
@@ -181,11 +182,11 @@ footer nav {
 }
 
 .googlePlay {
-    background-position: -30px -20px;
-    background-size: 350px;
+    background-position: -10px -9px;
+    background-size: 120px;
 }
 
 .appStore {
-    background-position: -30px -130px;
-    background-size: 350px;
+    background-position: -10px -45px;
+    background-size: 120px;
 }
