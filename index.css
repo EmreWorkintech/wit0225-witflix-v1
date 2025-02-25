@@ -26,6 +26,18 @@ header nav {
     height: 2rem;
 }
 
+.user-controls input {
+    background-image: url("./assets/magnifying-glass.png");
+    background-repeat: no-repeat;
+    background-size: 8%;
+    background-position: 97%;
+    padding-right: 10%;
+}
+
+.input-icon {
+    margin-left: -1.5rem
+}
+
 /* Main */
 main {
     aspect-ratio: 5/3;
