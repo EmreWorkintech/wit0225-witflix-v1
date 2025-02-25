@@ -140,3 +140,22 @@ main .movie-description {
     font-size: .9rem
 }
 
+/* footer */
+.store {
+    display: block;
+    aspect-ratio: 4.7/1.4;
+    width: 50%;
+    background-color: red;
+    background-image: url("./assets/web-189884714.jpg.webp");
+    background-repeat: no-repeat;
+}
+
+.googlePlay {
+    background-position: -30px -20px;
+    background-size: 350px;
+}
+
+.appStore {
+    background-position: -30px -130px;
+    background-size: 350px;
+}
